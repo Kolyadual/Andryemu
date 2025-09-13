@@ -1,6 +1,6 @@
-# Andryemu - Fast Android Emulator
+# Andryemu - Быстрый эмулятор Android
 
-Andryemu is an Android subsystem for Runget OS. 
+Andryemu это Android эмулятор для ПК на таких операционных системах как: Runget, Windows (пока нет, но скоро будет), Ubuntu, Debian, ZorinOS, Linux Mint и др.
 
 ![Andryemu screenshot](https://github.com/user-attachments/assets/888fdd7d-a291-4b0f-909d-dbe5ce0f5198)
 
