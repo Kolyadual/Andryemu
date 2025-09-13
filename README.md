@@ -6,3 +6,10 @@ Andryemu это Android эмулятор для ПК на таких опера�
 
 Download Andryemu AppImage <a href="https://drive.google.com/file/d/1FbEaPkwH_UGt4_fDUk4m5sNJu5sWDYuT/view?usp=drivesdk">here</a>
 
+# Доступные версии Andryemu:
+
+Andryemu v1.0 (Android 7)
+
+Andryemu v1.0 (Android 9)
+
+Архив версий: https://drive.google.com/drive/folders/13i5GfijTH7Mcc_i62s1No8QNfs1ncDEj
