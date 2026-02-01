@@ -68,7 +68,7 @@ Extract files from Andryemu-1.2-x86_64.AppImage:
 
 Then run the systemr.sh (Installing Andryemu deps.)
 
-    cd Andryemu && sudo bash systemr.sh
+    cd squashfs-root && sudo bash systemr.sh
 
 And run the emulator:
 
