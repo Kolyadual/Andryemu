@@ -64,7 +64,7 @@ Install AppImage deps:
 
 Extract files from Andryemu-1.2-x86_64.AppImage:
 
-    sudo chmod +x Andryemu-1.2-x86_64.AppImage && ./Andryemu-1.2-x86_64.AppImage --appimage-extract
+    sudo chmod +x Andryemu-1.2-x86_64.AppImage && ./Andryemu-1.2-x86-64.AppImage --appimage-extract
 
 Then run the systemr.sh (Installing Andryemu deps.)
 
