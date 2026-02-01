@@ -70,6 +70,7 @@ Then run the systemr.sh (Installing Andryemu deps.)
     cd Andryemu && sudo bash systemr.sh
 
 And run the emulator:
+
     python3 app.py --run
 
 Archive of versions: https://drive.google.com/drive/folders/13i5GfijTH7Mcc_i62s1No8QNfs1ncDEj
