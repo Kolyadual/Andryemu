@@ -38,10 +38,20 @@
 
 ## 🌟 Why Andryemu?
 
-Most Android emulators (Genymotion, Waydroid, Anbox, Android Studio Emulator) require:
+Most **Android emulators** (Genymotion, Waydroid, Anbox, Android Studio Emulator) require:
 - ✘ Modern CPU with VT-x/AMD-V
 - ✘ Dedicated GPU with OpenGL 3.0+
 - ✘ 4+ GB RAM
+
+But **Andryemu**:
+
+- Require minimal hardware
+- Works with custom Android images
+- New Android versions full support
+- ADB/Android studio connect support
+- WiFi support
+- A lot of any Android images works on Andryemu!
+- OpenGL support
 
 **Andryemu works where others fail** — designed specifically for:
 - ✅ Pentium 4 / Core 2 Duo / Atom CPUs (no VT-x required)
